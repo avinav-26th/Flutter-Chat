@@ -1,12 +1,16 @@
-# Socket.IO Flutter
+# flutter_chat
 
-This repo contains the example of using socket.io with Flutter using [socket_io_client](https://pub.dev/packages/socket_io_client) package.
+A new Flutter project.
 
-## Watch video on YouTube
-[Watch Now](https://youtu.be/ZGT7eLPs59E)
+## Getting Started
 
-## Important:
-This repo might not contain the best code ever written for socket.io usage with Flutter but it's good enough to at least get started.
+This project is a starting point for a Flutter application.
 
-## Issue:
-If you have any issue with the code or you want any other help related to this video, you may contact me on [Instagram](https://www.instagram.com/nameless_coder/)
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
